@@ -5,12 +5,17 @@ title: 'sinbin'
 
 {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
 
-    <div class="post-list">
-        {%- for post in site.tags['archive'] -%}
-            <div class="tag-entry">
-                <a href="{{ post.url | relative_url }}">{{- post.title -}}</a>
-                <div class="entry-date">
-                    <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: date_format -}}</time>
-                </div>
-            </div>
-        {%- endfor -%}
+
+<h2>Archive</h2>
+
+<div class="post-list">
+       {%- for post in site.tags['archive'] -%}
+           <div class="tag-entry">
+              <a href="{{ post.url | relative_url }}">{{- post.title -}}</a>
+              <div class="entry-date">
+                 <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: date_format -}}</time>
+               </div>
+           </div>
+{%- endfor -%}
+</div>
+
