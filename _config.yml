@@ -15,9 +15,7 @@ author: rootNoob
 
 navbar-links:
   whoami: "aboutme"
-  sub-example:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  sinbin: "archive"
   rootNoob's Home: ""
 
 # --- Logo --- #
