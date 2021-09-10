@@ -1,6 +1,6 @@
 ---
 layout: post
-title:“I’m ‘just’ doing my job”
+title: “I’m ‘just’ doing my job”
 subtitle: The not-so inconsequential phrase
 tags: [police,]
 comments: true
