@@ -11,7 +11,8 @@ Manchester Police Farce, (or whatever they're calling themselves these days), ha
 By investigating this, most idiotic and abhorrent, act as a 'hate-crime' they undermine the rule of common law; which many, both muslim and non-muslim, believe the state still upholds. I've said it before, and I'll say it again: If hate is a crime - then lock me up. We all hate something - perhaps you hate me*. If you do, (in a civilised country): it is your divine right to. Judging by the actions of Manchester Police Farce, The <s>United</s>Divided Kingdom, however, is apparently not a civilised country.  
 
 
-As the subtitle rightly states: **HATE is a FAR GREATER offence, (to the state), than arson**.  
+As the subtitle rightly states:  
+**HATE is a FAR GREATER offence, (to the state), than arson**.  
 
 **Why is this?**  
 Perhaps, (in my absurd and politically-incorrect opinon), it is because the state is formed of tyrants. 
