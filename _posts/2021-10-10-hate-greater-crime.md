@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Burn down the mosque! (and we'll pat you on the back)”
+title: Burn down the mosque! (and we'll pat you on the back)
 subtitle: HATE is a FAR GREATER offence, (to the state), than arson.
 tags: [police,Islam,muslims,BBC,state,propaganda,politics,NTS,DK,UK,MPF]
 comments: true
