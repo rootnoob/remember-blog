@@ -24,7 +24,7 @@ If any alleged offenders are convicted of this crime and sent to to prison, you 
 But has it, really? 
 This entire incident has now been overshadowed by this cowardly surrender by MPF. 
 It is difficult to see how any trial of the offender(s) could possibly be fair, and punishment apolitical. 
-**Unless, that-is, Manchester Police Farce publicly admit their mistake, and show their sincere apologies by thoroughly investigating the apparent crime of arson and properly punishing any and all offenders caught**.  
+**Unless, that-is: Manchester Police Farce publicly admit their mistake, and show their sincere apologies by thoroughly investigating the apparent crime of arson and properly punishing any and all offenders caught**.  
 
 **Will that happen?**  
 That, I do not know; for I am a most humble journalist-(cowardly keyboard-warrior).
