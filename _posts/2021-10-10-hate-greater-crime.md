@@ -25,7 +25,7 @@ But has it, really?
 This entire incident has now been overshadowed by this cowardly surrender by MPF. 
 It is difficult to see how any trial of the offender(s) could possibly be fair, and punishment apolitical. 
 Unless, that-is:  
-**Manchester Police Farce publicly admit their mistake, and show their sincere apologies by thoroughly investigating the apparent crime of arson and properly punishing any and all offenders caught**.  
+**Manchester Police Farce publicly admit their mistake, and show their sincere apologies by thoroughly investigating the apparent crime of arson and fighting for punishment of any and all offenders caught**.  
 
 **Will that happen?**  
 That, I do not know; for I am a most humble journalist<s>cowardly keyboard-warrior</s>.
