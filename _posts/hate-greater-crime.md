@@ -6,7 +6,7 @@ tags: [police,Islam,muslims,BBC,state,propaganda,politics,NTS,DK,UK,MPF]
 comments: true
 ---
 
-Manchester Police Farce, (or whatever they're calling themselves these days), have gifted all criminals nationwide, today; both muslim and non-muslim. "**Police treat mosque fire as hate crime**": see this [rag](https://www.bbc.co.uk/news/uk-england-manchester-58528886), from our most-noble National Truth Service.  
+Manchester Police Farce, (or whatever they're calling themselves these days), have a gift for all criminals nationwide, today; both muslim and non-muslim. "**Police treat mosque fire as hate crime**": see this [rag](https://www.bbc.co.uk/news/uk-england-manchester-58528886), from our most-noble National Truth Service.  
 
 By investigating this, most idiotic and abhorrent, act as a 'hate-crime' they undermine the rule of common law; which many, both muslim and non-muslim, believe the state still upholds. I've said it before, and I'll say it again: If hate is a crime - then lock me up. We all hate something - perhaps you hate me*. If you do, (in a civilised country): it is your divine right to. Judging by the actions of Manchester Police Farce, The <s>United</s>Divided Kingdom, however, is apparently not a civilised country.  
 
