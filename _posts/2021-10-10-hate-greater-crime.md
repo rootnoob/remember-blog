@@ -28,6 +28,6 @@ Unless, that-is:
 **Manchester Police Farce publicly admit their mistake, and show their sincere apologies by thoroughly investigating the apparent crime of arson and properly punishing any and all offenders caught**.  
 
 **Will that happen?**  
-That, I do not know; for I am a most humble journalist-(cowardly keyboard-warrior).
+That, I do not know; for I am a most humble journalist<s>cowardly keyboard-warrior</s>.
 
 (*If you do hate me: you may [shout at me on twitter](https://twitter.com/rootNoob_)).
